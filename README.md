@@ -82,4 +82,4 @@ By combining machine learning with business intelligence tools, organisations ca
 **Gladys Uyo Onalo**  
 MSc Business Analytics | Data Analyst | Power BI | SQL | Python  
 📧 gladonalo@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/gladys-onalo-1499a257)
+🔗 [www.linkedin.com/in/gladys-onalo-1499a257]
